@@ -2,4 +2,3 @@
 
 msrit
 rit
-it
